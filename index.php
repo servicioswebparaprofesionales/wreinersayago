@@ -178,7 +178,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
       </div>
 
-      <div class="w3-container w3-card-2 w3-white" style="padding:0;">
+      <!--div class="w3-container w3-card-2 w3-white" style="padding:0;">
 
         <div class="w3-container w3-blue">
           <h2>Cont&aacute;ctame</h2>
@@ -204,7 +204,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <button id="btn-submit" type="submit" class="w3-btn w3-blue w3-margin-bottom">Enviar</button>
         </form>
 
-      </div>
+      </div-->
 
     <!-- End Right Column -->
     </div>
